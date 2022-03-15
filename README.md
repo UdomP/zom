@@ -1,4 +1,5 @@
-# zom
+# zom 
+A program similar to zoom where you can chat with multiple people or make a call with someone
 To run this program you must start the client side and the server side
 
 1. To start the Client side
